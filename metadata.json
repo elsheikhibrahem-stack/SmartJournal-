@@ -1,0 +1,6 @@
+{
+  "name": "Smart Journal",
+  "description": "دفتر يومية ذكي يدمج بين تدوين الملاحظات الذكي والتصنيف الآلي، وإدارة المهام والعمليات الزراعية، وتتبع السجلات المالية، والتحليلات الأسبوعية والبحث الاستدلالي بالذكاء الاصطناعي مع Google Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
